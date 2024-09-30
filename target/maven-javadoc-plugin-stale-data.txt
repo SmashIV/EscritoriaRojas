@@ -1,0 +1,85 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/Rodrigo/.m2/repository/com/miglayout/miglayout-swing/11.4.2/miglayout-swing-11.4.2.jar;C:/Users/Rodrigo/.m2/repository/com/miglayout/miglayout-core/11.4.2/miglayout-core-11.4.2.jar;C:/Users/Rodrigo/.m2/repository/org/jdesktop/timingframework/0.55/timingframework-0.55.jar;C:/Users/Rodrigo/.m2/repository/org/smashiv/table-custom/1.0/table-custom-1.0.jar;C:/Users/Rodrigo/.m2/repository/org/eclipse/persistence/eclipselink/4.0.4/eclipselink-4.0.4.jar;C:/Users/Rodrigo/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/Rodrigo/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/4.0.2/jakarta.xml.bind-api-4.0.2.jar;C:/Users/Rodrigo/.m2/repository/com/sun/xml/bind/jaxb-xjc/4.0.5/jaxb-xjc-4.0.5.jar;C:/Users/Rodrigo/.m2/repository/com/sun/xml/bind/jaxb-core/4.0.5/jaxb-core-4.0.5.jar;C:/Users/Rodrigo/.m2/repository/com/mysql/mysql-connector-j/8.4.0/mysql-connector-j-8.4.0.jar;C:/Users/Rodrigo/.m2/repository/com/google/protobuf/protobuf-java/3.25.1/protobuf-java-3.25.1.jar;C:/Users/Rodrigo/.m2/repository/io/github/dj-raven/modal-dialog/1.2.1-SNAPSHOT/modal-dialog-1.2.1-SNAPSHOT.jar;C:/Users/Rodrigo/.m2/repository/com/formdev/flatlaf/3.5.1/flatlaf-3.5.1.jar;C:/Users/Rodrigo/.m2/repository/com/formdev/flatlaf-extras/3.5.1/flatlaf-extras-3.5.1.jar;C:/Users/Rodrigo/.m2/repository/io/github/dj-raven/swing-datetime-picker/1.4.1-SNAPSHOT/swing-datetime-picker-1.4.1-SNAPSHOT.jar;C:/Users/Rodrigo/.m2/repository/com/formdev/flatlaf-fonts-roboto/2.137/flatlaf-fonts-roboto-2.137.jar;C:/Users/Rodrigo/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE90/AbsoluteLayout-RELEASE90.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/Rodrigo/Documents/NetBeansProjects/rojasMarket/src/main/java;C:/Users/Rodrigo/Documents/NetBeansProjects/rojasMarket/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Rodrigo/Documents/NetBeansProjects/rojasMarket/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'rojasMarket 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'rojasMarket 1.0-SNAPSHOT API'
+componentes.agregar
+componentes
+componentes.celdas
+componentes.celdas.admin
+componentes.celdas.categoria
+componentes.celdas.cliente
+componentes.celdas.descuento
+componentes.celdas.pago
+componentes.celdas.rol
+componentes.tablas
+eventos
+externals
+forms
+main
+Modelos
+persistencia
+persistencia.exceptions
+C:\Users\Rodrigo\.m2\repository\com\miglayout\miglayout-swing\11.4.2\miglayout-swing-11.4.2.jar = 1727186999002
+C:\Users\Rodrigo\.m2\repository\com\miglayout\miglayout-core\11.4.2\miglayout-core-11.4.2.jar = 1727186998909
+C:\Users\Rodrigo\.m2\repository\org\jdesktop\timingframework\0.55\timingframework-0.55.jar = 1727300243900
+C:\Users\Rodrigo\.m2\repository\org\smashiv\table-custom\1.0\table-custom-1.0.jar = 1727300248642
+C:\Users\Rodrigo\.m2\repository\org\eclipse\persistence\eclipselink\4.0.4\eclipselink-4.0.4.jar = 1721375663000
+C:\Users\Rodrigo\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1645787726000
+C:\Users\Rodrigo\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\4.0.2\jakarta.xml.bind-api-4.0.2.jar = 1716147550295
+C:\Users\Rodrigo\.m2\repository\com\sun\xml\bind\jaxb-xjc\4.0.5\jaxb-xjc-4.0.5.jar = 1709704886000
+C:\Users\Rodrigo\.m2\repository\com\sun\xml\bind\jaxb-core\4.0.5\jaxb-core-4.0.5.jar = 1709704893000
+C:\Users\Rodrigo\.m2\repository\com\mysql\mysql-connector-j\8.4.0\mysql-connector-j-8.4.0.jar = 1714206002000
+C:\Users\Rodrigo\.m2\repository\com\google\protobuf\protobuf-java\3.25.1\protobuf-java-3.25.1.jar = 1700088488000
+C:\Users\Rodrigo\.m2\repository\io\github\dj-raven\modal-dialog\1.2.1-SNAPSHOT\modal-dialog-1.2.1-SNAPSHOT.jar = 1727285867000
+C:\Users\Rodrigo\.m2\repository\com\formdev\flatlaf\3.5.1\flatlaf-3.5.1.jar = 1727186998928
+C:\Users\Rodrigo\.m2\repository\com\formdev\flatlaf-extras\3.5.1\flatlaf-extras-3.5.1.jar = 1727186998916
+C:\Users\Rodrigo\.m2\repository\io\github\dj-raven\swing-datetime-picker\1.4.1-SNAPSHOT\swing-datetime-picker-1.4.1-SNAPSHOT.jar = 1727540964000
+C:\Users\Rodrigo\.m2\repository\com\formdev\flatlaf-fonts-roboto\2.137\flatlaf-fonts-roboto-2.137.jar = 1671149803000
+C:\Users\Rodrigo\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE90\AbsoluteLayout-RELEASE90.jar = 1555537659000
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\src\main\java = 1727544923000
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\generated-sources\annotations = 1727708909429
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\allclasses-index.html = 1727708915933
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\allpackages-index.html = 1727708915935
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\copy.svg = 1727708915996
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\element-list = 1727708915343
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\help-doc.html = 1727708915988
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\index-all.html = 1727708915978
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\index.html = 1727708915899
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\link.svg = 1727708915998
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\member-search-index.js = 1727708915942
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\module-search-index.js = 1727708915936
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\overview-summary.html = 1727708915983
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\overview-tree.html = 1727708915893
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\package-search-index.js = 1727708915938
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\script.js = 1727708915993
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\search-page.js = 1727708916005
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\search.html = 1727708915981
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\search.js = 1727708916003
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\serialized-form.html = 1727708915529
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\stylesheet.css = 1727708915991
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\tag-search-index.js = 1727708915944
+C:\Users\Rodrigo\Documents\NetBeansProjects\rojasMarket\target\reports\apidocs\type-search-index.js = 1727708915940

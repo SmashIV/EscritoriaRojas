@@ -1,0 +1,17 @@
+componentes
+componentes.agregar
+componentes.celdas
+componentes.celdas.admin
+componentes.celdas.categoria
+componentes.celdas.cliente
+componentes.celdas.descuento
+componentes.celdas.pago
+componentes.celdas.rol
+componentes.tablas
+eventos
+externals
+forms
+main
+Modelos
+persistencia
+persistencia.exceptions
